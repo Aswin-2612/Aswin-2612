@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" width="100%" alt="Aswin K - Developer Banner">
+  <img src="./Neon%20City%20Overlook_%20Build,%20Learn,%20Create.png" width="100%" alt="Aswin K - Developer Banner">
 </div>
 
 <br>
