@@ -1,4 +1,8 @@
+<div align="center">
+  <img src="images/banner.png" width="100%" alt="Aswin K - Developer Banner">
+</div>
 
+<br>
 <div align="center">
 
 # ⚡ ASWIN K
