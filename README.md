@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="images/banner.png" width="100%" alt="Aswin K - Developer Banner">
+  <img src="banner.png" width="100%" alt="Aswin K - Developer Banner">
 </div>
 
 <br>
